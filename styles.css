@@ -1,0 +1,86 @@
+/*body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: grey;
+    color: honeydew;
+    font-size: 1.1em;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.header {
+    min-height: 450px;
+    color: honeydew;
+    text-align: center;
+}
+.backimage {
+    position: absolute;
+    background: grey;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 450px;
+    z-index: -1;
+    opacity: 0.8;
+}
+
+div img {
+    width: 100%;
+    height: 450px;
+}
+
+.header h1 {
+    padding-top: 100px;
+    padding-bottom: 0;
+}
+
+h1 {
+    font-weight: bold;
+    margin: 0;
+}
+
+div {
+    display: block;
+}
+
+.content {
+
+    margin: 0 100px 0 100px;
+}
+*/
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color:grey ;
+}
+
+.backimg {
+  background-color: grey;
+  background-image: url("https://www.avcadvisory.ru/wp-content/uploads/2018/04/ETF-investitsionnye-fondy.jpg");
+  width: 100%;
+  height: 450px;
+  position: relative;
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size: cover;
+  
+
+}
+
+.paragraf1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.content {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    margin-left: 375px;
+    margin-top: 90px; 
+    text-align: center;  
+    
+}
